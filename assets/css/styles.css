@@ -419,6 +419,14 @@ ul.small-bullet li {
     list-style-type: disc;
     margin: 10px 0px;
 }
+ul.space {
+    margin-left: 30px;
+}
+
+ul.space li {
+    list-style-type: none;
+    margin: 10px 0px;
+}
 ul.small-circle {
     margin-left: 30px;
 }
@@ -637,7 +645,7 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 104px;
+    font-size: 91px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
     letter-spacing: -4px;
@@ -676,11 +684,11 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -275px;
+    margin-top: -114px;
 }
 .moreInfo {
     position: absolute;
-    top: -26px;
+    top: 91px;
     left: 10px;
     z-index: 91;
     background: transparent;
