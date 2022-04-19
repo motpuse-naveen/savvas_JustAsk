@@ -399,7 +399,11 @@ a:hover {
     color: #0072EE;
     line-height: 28px;
 }
-
+.content-panel .text-content p.black-heading {
+    font-family: 'poppins-semibold';
+    font-size: 20px;
+    line-height: 28px;
+}
 h3.blue-heading a, p.blue-heading a  {
     text-decoration: underline;
 }
@@ -1244,4 +1248,17 @@ img.aboutBookCover{
   }
 
   .zposition{min-width:350px;}
+  .side-disclamer11{
+    font-family: "poppins-regular";
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: -200px;
+    margin-right: 11px;
+    position: fixed;
+    bottom: 0;
+    width: 180px;
+    }.side-disclamer11 .disctext {
+    font-size: 11px !important;
+    margin-right: 5px !important;
+    }
 
