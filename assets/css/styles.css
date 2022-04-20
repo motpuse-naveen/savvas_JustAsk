@@ -307,6 +307,8 @@ a:hover {
     /* position: fixed; */
     bottom: 0;
     width: 165px;
+    margin-top: 119px;
+
 }
 .bold {
     font-family: "poppins-bold";
@@ -1257,6 +1259,7 @@ img.aboutBookCover{
     position: fixed;
     bottom: 0;
     width: 180px;
+    
     }.side-disclamer11 .disctext {
     font-size: 11px !important;
     margin-right: 5px !important;
