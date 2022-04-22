@@ -626,18 +626,18 @@ table.table-style2 .trbg {
 
 .award-circle-wrap {
     padding-left: 30px;
-    padding-top: 45px;
+    padding-top: 90px;
 }
 
 .award-circle {
     /*height: 180px;*/
-    width: 180px;
+    width: 153px;
     background-color: #EBC979;
     border-radius: 50%;
 }
 
 .award-circle .award-text {
-    padding: 37px 6px;
+    padding: 43px 23px;
     font-family: 'poppins-semibold';
     font-size: 19px;
     text-align: center;
