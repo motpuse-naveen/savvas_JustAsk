@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#CDDBED;stroke-width:110;stroke-miterlimit:10;}
+	.st2{fill:#CDDBED;}
+	.st3{fill:#A6B8E5;}
+	.st4{fill:none;}
+	.st5{font-family:'Poppins-Bold';}
+	.st6{font-size:12px;}
+	.st7{font-family:'Poppins-Medium';}
+	.st8{font-family:'Poppins-SemiBold';}
+</style>
+<g id="BKGD">
+	<g>
+		<path class="st0" d="M15,611.75c-8.13,0-14.75-6.62-14.75-14.75V15C0.25,6.87,6.87,0.25,15,0.25h762
+			c8.13,0,14.75,6.62,14.75,14.75v582c0,8.13-6.62,14.75-14.75,14.75H15z"/>
+		<path d="M777,0.5c8,0,14.5,6.5,14.5,14.5v582c0,8-6.5,14.5-14.5,14.5H15c-8,0-14.5-6.5-14.5-14.5V15C0.5,7,7,0.5,15,0.5H777
+			 M777,0H15C6.72,0,0,6.72,0,15v582c0,8.28,6.72,15,15,15h762c8.28,0,15-6.72,15-15V15C792,6.72,785.28,0,777,0L777,0z"/>
+	</g>
+</g>
+<g id="white_circles">
+	<g>
+		<g>
+			<line class="st1" x1="51" y1="302" x2="139.81" y2="302"/>
+			<g>
+				<polygon class="st2" points="128.16,215.14 128.16,388.86 215,302 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st1" x1="255" y1="302" x2="337.81" y2="302"/>
+			<g>
+				<polygon class="st2" points="326.16,215.14 326.16,388.86 413,302 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st1" x1="453" y1="302" x2="529.81" y2="302"/>
+			<g>
+				<polygon class="st2" points="518.16,215.14 518.16,388.86 605,302 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st1" x1="645" y1="302" x2="710.81" y2="302"/>
+			<g>
+				<polygon class="st2" points="699.16,215.14 699.16,388.86 786,302 				"/>
+			</g>
+		</g>
+	</g>
+	<path class="st0" d="M43.95,258.31c3.85-1.02,7.89-1.56,12.05-1.56c25.96,0,47,21.04,47,47s-21.04,47-47,47
+		c-4.2,0-8.27-0.55-12.14-1.58"/>
+	<path class="st0" d="M247.95,258.31c3.85-1.02,7.89-1.56,12.05-1.56c25.96,0,47,21.04,47,47s-21.04,47-47,47
+		c-4.2,0-8.27-0.55-12.14-1.58"/>
+	<path class="st0" d="M445.95,258.31c3.85-1.02,7.89-1.56,12.05-1.56c25.96,0,47,21.04,47,47s-21.04,47-47,47
+		c-4.2,0-8.27-0.55-12.14-1.58"/>
+	<path class="st0" d="M637.95,258.31c3.85-1.02,7.89-1.56,12.05-1.56c25.96,0,47,21.04,47,47s-21.04,47-47,47
+		c-4.2,0-8.27-0.55-12.14-1.58"/>
+</g>
+<g id="Layer_5">
+	<circle class="st3" cx="260" cy="303.75" r="44"/>
+	<circle class="st3" cx="458" cy="303.75" r="44"/>
+	<circle class="st3" cx="650" cy="303.75" r="44"/>
+	<circle class="st3" cx="56" cy="303.75" r="44"/>
+</g>
+<g id="GO_x5F_WW">
+	<rect x="106.46" y="267" class="st4" width="85.54" height="86"/>
+	<text transform="matrix(1 0 0 1 107.4673 275.8799)"><tspan x="0" y="0" class="st5 st6">Sonia asks:</tspan><tspan x="69.07" y="0" class="st7 st6"> </tspan><tspan x="-1" y="16" class="st7 st6">Do you ever </tspan><tspan x="-1" y="32" class="st7 st6">need to take </tspan><tspan x="-1" y="48" class="st7 st6">medicine to </tspan><tspan x="-1" y="64" class="st7 st6">be healthy?</tspan></text>
+	<rect x="310.46" y="276" class="st4" width="77.54" height="92"/>
+	<text transform="matrix(1 0 0 1 311.4673 284.8798)"><tspan x="0" y="0" class="st5 st6">Rafael asks:</tspan><tspan x="73.67" y="0" class="st7 st6"> </tspan><tspan x="-1" y="16" class="st7 st6">Do you use a </tspan><tspan x="-1" y="32" class="st7 st6">tool to help </tspan><tspan x="-1" y="48" class="st7 st6">your body?</tspan></text>
+	<rect x="508.74" y="267" class="st4" width="77.26" height="87"/>
+	<text transform="matrix(1 0 0 1 509.7428 275.8798)"><tspan x="0" y="0" class="st5 st6">Anthony </tspan><tspan x="-1" y="16" class="st5 st6">asks:</tspan><tspan x="31.05" y="16" class="st7 st6"> How </tspan><tspan x="-1" y="32" class="st7 st6">do you get </tspan><tspan x="-1" y="48" class="st7 st6">from place </tspan><tspan x="-1" y="64" class="st7 st6">to place?</tspan></text>
+	<rect x="15.54" y="282.64" class="st4" width="82.46" height="49.36"/>
+	<text transform="matrix(1 0 0 1 39.7415 291.5229)"><tspan x="0" y="0" class="st8 st6">Sonia</tspan><tspan x="0.23" y="15" class="st8 st6">takes </tspan><tspan x="-11.68" y="30" class="st8 st6">medicine</tspan></text>
+	<rect x="222.65" y="281.13" class="st4" width="76.35" height="62.87"/>
+	<text transform="matrix(1 0 0 1 223.4263 290.0078)"><tspan x="0" y="0" class="st8 st6">Rafael takes </tspan><tspan x="8.69" y="15" class="st8 st6">medicine </tspan><tspan x="14.89" y="30" class="st8 st6">with an </tspan><tspan x="14.66" y="45" class="st8 st6">inhaler.</tspan></text>
+	<rect x="420.52" y="281.6" class="st4" width="77.48" height="56.4"/>
+	<text transform="matrix(1 0 0 1 433.2222 290.4775)"><tspan x="0" y="0" class="st8 st6">Anthony </tspan><tspan x="6.51" y="15" class="st8 st6">uses a </tspan><tspan x="-9.3" y="30" class="st8 st6">wheelchair. </tspan></text>
+	<rect x="635.52" y="298.6" class="st4" width="31.48" height="15.4"/>
+	<text transform="matrix(1 0 0 1 648.1655 307.4775)" class="st8 st6">?</text>
+</g>
+</svg>

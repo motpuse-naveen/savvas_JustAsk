@@ -626,12 +626,12 @@ table.table-style2 .trbg {
 
 .award-circle-wrap {
     padding-left: 30px;
-    padding-top: 90px;
+    padding-top: 236px;
 }
 
 .award-circle {
-    /*height: 180px;*/
-    width: 153px;
+    height: 158px;
+    width: 158px;
     background-color: #EBC979;
     border-radius: 50%;
 }
@@ -641,7 +641,7 @@ table.table-style2 .trbg {
     font-family: 'poppins-semibold';
     font-size: 19px;
     text-align: center;
-    line-height: 19px;
+    line-height: 24px;
 }
 
 .side-image-bar {
@@ -653,18 +653,18 @@ table.table-style2 .trbg {
 
 .rikshaw-girl-text {
     position: relative;
-    padding-top: 90px;
-    padding-left: 75px;
+    padding-top: 132px;
+    padding-left: 176px;
     z-index: 12;
 }
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 91px;
+    font-size: 172px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
     letter-spacing: -4px;
-    line-height: 114px;
+    line-height: 64px;
     margin-right: 72px;
 }
 
@@ -699,7 +699,7 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -114px;
+    margin-top: -32px;
 }
 .moreInfo {
     position: absolute;
@@ -766,7 +766,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -280px;
+    top: -194px;
     right: -80px;
     width: 234px;
     height: 234px;
