@@ -8,10 +8,10 @@
 	.st2{fill:#CDDBED;}
 	.st3{fill:#A6B8E5;}
 	.st4{fill:none;}
-	.st5{font-family:'Poppins-Bold';}
+	.st5{font-family:sans-serif; font-weight: 600;}
 	.st6{font-size:12px;}
-	.st7{font-family:'Poppins-Medium';}
-	.st8{font-family:'Poppins-SemiBold';}
+	.st7{font-family:sans-serif; font-weight: 600;}
+	.st8{font-family:sans-serif; font-weight: 600;}
 </style>
 <g id="BKGD">
 	<g>
@@ -75,9 +75,9 @@
 	<rect x="310.46" y="276" class="st4" width="77.54" height="92"/>
 	<text transform="matrix(1 0 0 1 311.4673 284.8798)"><tspan x="0" y="0" class="st5 st6">Rafael asks:</tspan><tspan x="73.67" y="0" class="st7 st6"> </tspan><tspan x="-1" y="16" class="st7 st6">Do you use a </tspan><tspan x="-1" y="32" class="st7 st6">tool to help </tspan><tspan x="-1" y="48" class="st7 st6">your body?</tspan></text>
 	<rect x="508.74" y="267" class="st4" width="77.26" height="87"/>
-	<text transform="matrix(1 0 0 1 509.7428 275.8798)"><tspan x="0" y="0" class="st5 st6">Anthony </tspan><tspan x="-1" y="16" class="st5 st6">asks:</tspan><tspan x="31.05" y="16" class="st7 st6"> How </tspan><tspan x="-1" y="32" class="st7 st6">do you get </tspan><tspan x="-1" y="48" class="st7 st6">from place </tspan><tspan x="-1" y="64" class="st7 st6">to place?</tspan></text>
+	<text transform="matrix(1 0 0 1 509.7428 275.8798)"><tspan x="0" y="0" class="st5 st6">Anthony </tspan><tspan x="-1" y="16" class="st5 st6">asks:</tspan><tspan x="28.05" y="16" class="st7 st6"> How </tspan><tspan x="-1" y="32" class="st7 st6">do you get </tspan><tspan x="-1" y="48" class="st7 st6">from place </tspan><tspan x="-1" y="64" class="st7 st6">to place?</tspan></text>
 	<rect x="15.54" y="282.64" class="st4" width="82.46" height="49.36"/>
-	<text transform="matrix(1 0 0 1 39.7415 291.5229)"><tspan x="0" y="0" class="st8 st6">Sonia</tspan><tspan x="0.23" y="15" class="st8 st6">takes </tspan><tspan x="-11.68" y="30" class="st8 st6">medicine</tspan></text>
+	<text transform="matrix(1 0 0 1 39.7415 291.5229)"><tspan x="0" y="0" class="st8 st6">Sonia</tspan><tspan x="0.23" y="15" class="st8 st6">takes </tspan><tspan x="-11.68" y="30" class="st8 st6">medicine.</tspan></text>
 	<rect x="222.65" y="281.13" class="st4" width="76.35" height="62.87"/>
 	<text transform="matrix(1 0 0 1 223.4263 290.0078)"><tspan x="0" y="0" class="st8 st6">Rafael takes </tspan><tspan x="8.69" y="15" class="st8 st6">medicine </tspan><tspan x="14.89" y="30" class="st8 st6">with an </tspan><tspan x="14.66" y="45" class="st8 st6">inhaler.</tspan></text>
 	<rect x="420.52" y="281.6" class="st4" width="77.48" height="56.4"/>
