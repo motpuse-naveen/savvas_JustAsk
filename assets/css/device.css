@@ -8,6 +8,15 @@
     .rikshaw-girl-bg {
         overflow: hidden;
     }
+    h1.main-heading {
+        font-family: 'poppins-semibold';
+        font-size: 100px;
+        text-shadow: 15px 0px 47px rgb(0 0 0);
+        color: #FFFFFF;
+        letter-spacing: -5px;
+        line-height: 71px;
+        margin-right: auto;
+    }
 }
 
 @media (max-width: 990px) {
@@ -17,13 +26,18 @@
         max-width: 740px;
         margin: 0 auto;
     }
+    .award-circle-wrap {
+        position: relative;
+        padding-left: 30px;
+        padding-top: 146px;
+    }
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 160px;
+        font-size: 100px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 170px;
+        line-height: 71px;
         margin-right: auto;
     }
     .popup-content-col .col-md-12 .popup-left-title {
@@ -53,45 +67,53 @@
     }
     .rikshaw-girl-text {
         position: relative;
-        padding-top: 0px;
+        padding-top: 124px;
         padding-left: 0px;
         max-width: 740px;
         margin: 0 auto;
     }
-    h1.main-heading {
+    /* h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 172px;
+        font-size: 112px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
         margin-right: auto;
-    }
+    } */
     .subheading{
         font-size: 48px;
         letter-spacing: 0px;
-        position: absolute;
-        line-height: 60px;
+        line-height: 16px;
     }
     .moreInfo-wrapper {
         float: right;
-        width: 370px;
+        width: 325px;
         margin-top: 0px;
     }
     .moreInfo-container {
-        margin-top: 71px;
+        margin-top: 77px;
     }
     .award-circle-wrap {
-        padding-left: 229px;
-        padding-top: 0px;
+        padding-left: 108px;
+        padding-top: 37px;
     }
     .author-wrap span.image {
         float: left;
         margin-top: -24px;
     }
     .author-wrap span.text {
-        margin: 15px;
+        /* margin: 15px; */
         margin-top: -24px;
         padding-top: 20px;
+    }
+    .author-container .text {
+        font-size: 19px;
+        font-family: 'poppins-regular';
+        color: #FFFFFF;
+        margin-right: 15px;
+        margin-left: 5px;
+        margin-top: 23px;
+        float: left;
     }
     .orbitdiv {
         position: absolute;
@@ -123,17 +145,17 @@
 
 @media (max-width: 760px) {
     h1.main-heading {
-        font-size: 130px;
+        font-size: 106px;
         letter-spacing: 0px;
-        line-height: 130px;
+        line-height: 70px;
         padding-left: 20px;
     }
     
     .author-container .author-wrap{
-        padding-top: 220px;
+        /* padding-top: 220px; */
     }
     .moreInfo-container {
-        margin-top: 150px;
+        margin-top: 49px;
     }
     
     .text-content .card {
@@ -159,10 +181,10 @@
         font-size: 9px;
     }
     .author-container .author-wrap{
-        padding-top: 145px;
+        padding-top: 0px;
     }
     .moreInfo-container {
-        margin-top: 150px;
+        margin-top: 49px;
     }
     
 }
@@ -182,7 +204,7 @@
     }
     /*NM: 11-05-2022*/
     .author-container.mobile .author-wrap {
-        padding-top: 209px;
+        /* padding-top: 209px; */
     }
     .popup-content-col{
         flex: 0 0 100%;
@@ -229,7 +251,7 @@
     }
     h1.main-heading{
         font-size: 110px;
-        line-height:110px;
+        line-height: 92px;
     }
     .orbitdiv{
         position: fixed;
@@ -339,10 +361,13 @@
 }
 @media (max-width: 430px) {
     h1.main-heading {
-        font-size: 84px;
+        font-size: 63px;
         margin-top: -2px;
         line-height: 58px;
         margin-left: -10px;
+    }
+    .author-container.mobile .author-wrap {
+        padding-top: 86px;
     }
     .subheading{
         font-size: 33px;
@@ -354,7 +379,8 @@
     }
     .award-circle-wrap {
         top: 27%;
-        left: 246px;    }
+        left: 175px;
+    }
     .author-container .text{
         font-size: 20px;
     }
