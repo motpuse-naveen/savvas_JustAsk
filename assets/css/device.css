@@ -11,7 +11,7 @@
     h1.main-heading {
         font-family: 'poppins-semibold';
         font-size: 100px;
-        text-shadow: 15px 0px 47px rgb(0 0 0);
+        text-shadow: 4px 6px 21px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
         line-height: 71px;
@@ -34,10 +34,11 @@
     h1.main-heading {
         font-family: 'poppins-semibold';
         font-size: 100px;
-        text-shadow: 15px 0px 47px rgb(0 0 0);
+            text-shadow: 4px 6px 21px rgb(0 0 0);
+
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 71px;
+        line-height: 41px;
         margin-right: auto;
     }
     .popup-content-col .col-md-12 .popup-left-title {
@@ -75,7 +76,8 @@
     /* h1.main-heading {
         font-family: 'poppins-semibold';
         font-size: 112px;
-        text-shadow: 15px 0px 47px rgb(0 0 0);
+            text-shadow: 4px 6px 21px rgb(0 0 0);
+
         color: #FFFFFF;
         letter-spacing: -5px;
         margin-right: auto;
@@ -83,7 +85,7 @@
     .subheading{
         font-size: 48px;
         letter-spacing: 0px;
-        line-height: 16px;
+        line-height: 55px;
     }
     .moreInfo-wrapper {
         float: right;
@@ -94,8 +96,8 @@
         margin-top: 77px;
     }
     .award-circle-wrap {
-        padding-left: 108px;
-        padding-top: 37px;
+        padding-left: 288px;
+        padding-top: 4px;
     }
     .author-wrap span.image {
         float: left;
@@ -107,7 +109,7 @@
         padding-top: 20px;
     }
     .author-container .text {
-        font-size: 19px;
+        font-size: 18px;
         font-family: 'poppins-regular';
         color: #FFFFFF;
         margin-right: 15px;
@@ -147,7 +149,7 @@
     h1.main-heading {
         font-size: 106px;
         letter-spacing: 0px;
-        line-height: 70px;
+        line-height: 45px;
         padding-left: 20px;
     }
     
@@ -167,6 +169,10 @@
     }
     .orbitdiv-button{
         top: -255px;
+    }
+    .award-circle-wrap {
+        padding-left: 155px;
+        padding-top: 4px;
     }
 }
 
@@ -367,19 +373,21 @@
         margin-left: -10px;
     }
     .author-container.mobile .author-wrap {
-        padding-top: 86px;
+        padding-top: 168px;
     }
     .subheading{
         font-size: 33px;
-        line-height: 50px;
-        margin-top: 13px;
+        line-height: 46px;
+        margin-top: -46px;
+    
     }
     .rikshaw-girl-text {
         padding-bottom: 0%;
     }
     .award-circle-wrap {
-        top: 27%;
-        left: 175px;
+        top: 30%;
+        left: 215px;
+    
     }
     .author-container .text{
         font-size: 20px;
