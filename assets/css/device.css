@@ -10,11 +10,11 @@
     }
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 100px;
+        font-size: 133px;
         text-shadow: 4px 6px 21px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 71px;
+        line-height: 62px;
         margin-right: auto;
     }
 }
@@ -33,12 +33,12 @@
     }
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 100px;
-            text-shadow: 4px 6px 21px rgb(0 0 0);
+        /*font-size: 100px;*/
+        text-shadow: 4px 6px 21px rgb(0 0 0);
 
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 41px;
+        /*line-height: 41px;*/
         margin-right: auto;
     }
     .popup-content-col .col-md-12 .popup-left-title {
@@ -71,7 +71,7 @@
         padding-top: 124px;
         padding-left: 0px;
         max-width: 740px;
-        margin: 0 auto;
+        margin: 0 20px;
     }
     /* h1.main-heading {
         font-family: 'poppins-semibold';
@@ -93,7 +93,7 @@
         margin-top: 0px;
     }
     .moreInfo-container {
-        margin-top: 77px;
+        margin-top: 60px;
     }
     .award-circle-wrap {
         padding-left: 288px;
@@ -107,6 +107,7 @@
         /* margin: 15px; */
         margin-top: -24px;
         padding-top: 20px;
+        margin-left: 15px;
     }
     .author-container .text {
         font-size: 18px;
@@ -126,7 +127,7 @@
     }
     .orbitdiv-button{
         right: -47px;
-        top:-284px;
+        top:-268px;
     }
     .moreInfo{
         top: 100px;
@@ -150,7 +151,7 @@
         font-size: 106px;
         letter-spacing: 0px;
         line-height: 45px;
-        padding-left: 20px;
+        /*padding-left: 20px;*/
     }
     
     .author-container .author-wrap{
@@ -168,7 +169,7 @@
         float: left;
     }
     .orbitdiv-button{
-        top: -255px;
+        top: -241px;
     }
     .award-circle-wrap {
         padding-left: 155px;
@@ -210,7 +211,7 @@
     }
     /*NM: 11-05-2022*/
     .author-container.mobile .author-wrap {
-        /* padding-top: 209px; */
+        padding-top: 209px;
     }
     .popup-content-col{
         flex: 0 0 100%;
@@ -252,7 +253,7 @@
         margin-top: 90px !important;
     }
     .rikshaw-girl-text{
-        padding-top: 90px;
+        padding-top: 70px;
         padding-bottom: 10%;
     }
     h1.main-heading{
@@ -348,6 +349,9 @@
     .annim-bg-image {
         animation: bgImageSlideMobile 2s normal;
     }
+    .subheading{
+        padding-top: 0px;
+    }
 }
 @media (max-width: 550px) {
     h1.main-heading{
@@ -355,7 +359,7 @@
         line-height: 90px;
     }
     .award-circle-wrap {
-        top: 31%;
+        top: 38%;
     }
     img.aboutBookCover{
         width: 200px;
@@ -364,30 +368,30 @@
         float: left;
         margin-bottom: 20px;
     }
+    .author-container.mobile .author-wrap {
+        padding-top: 109px;
+    }
 }
 @media (max-width: 430px) {
     h1.main-heading {
         font-size: 63px;
         margin-top: -2px;
         line-height: 58px;
-        margin-left: -10px;
+        /*margin-left: -10px;*/
     }
     .author-container.mobile .author-wrap {
         padding-top: 168px;
     }
     .subheading{
         font-size: 33px;
-        line-height: 46px;
-        margin-top: -46px;
-    
+        line-height: 40px;
     }
     .rikshaw-girl-text {
         padding-bottom: 0%;
     }
     .award-circle-wrap {
         top: 30%;
-        left: 215px;
-    
+        /*left: 215px;*/
     }
     .author-container .text{
         font-size: 20px;
